@@ -1,0 +1,14 @@
+.cart{
+    border: 1px solid gray;
+    border-radius: 7px;
+    padding: 10px;
+    margin: 10px;
+    background: rgba(128, 128, 128, 0.164);
+    position: sticky;
+    top: 0;    
+}
+
+.cart h2{
+    text-align: center;
+    font-style: italic;
+}
